@@ -1,0 +1,10 @@
+{
+    "name": "penn/test",
+    "authors": [
+        {
+            "name": "pennkao",
+            "email": "pennkao@163.com"
+        }
+    ],
+    "require": {}
+}

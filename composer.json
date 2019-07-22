@@ -6,9 +6,6 @@
             "email": "pennkao@163.com"
         }
     ],
-    "require": {
-        "penn/test": "1.4"
-    },
     "autoload": {
         "psr-4": {
             "Test\\": "test/src"
